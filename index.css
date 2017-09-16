@@ -1,0 +1,29 @@
+body{
+    width: 100%;
+    background-image: url(images/bg.jpg);
+}
+.container{
+    width: 50vw;
+    height:auto;
+    background-color: rgba(06,06,06,0.5);
+    color:aqua;
+    margin: 30vh auto;
+    padding: 2vw;
+    border-radius: 5%;
+    box-shadow: 0px 0px 10px aqua;
+}
+.quote{
+    color:beige;
+    text-align: center;
+    font-size: 20px;
+    font-family:monospace;
+    font-weight:bold;
+    margin-top: 3%;
+}
+.author{
+    text-align: right;
+    margin-right: 10%;
+}
+.new_quote{
+    cursor: pointer;
+}
