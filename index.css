@@ -24,6 +24,6 @@ body{
     text-align: right;
     margin-right: 10%;
 }
-.new_quote{
+.new_quote,.twitter_btn{
     cursor: pointer;
 }
